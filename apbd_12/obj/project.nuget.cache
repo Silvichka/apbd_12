@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "WZcTO4prbRM=",
+  "success": true,
+  "projectFilePath": "/Users/silvia/University/4_semester/APBD/apbd_12/apbd_12/apbd_12.csproj",
+  "expectedPackageFiles": [
+    "/Users/silvia/.nuget/packages/microsoft.aspnetcore.openapi/9.0.5/microsoft.aspnetcore.openapi.9.0.5.nupkg.sha512",
+    "/Users/silvia/.nuget/packages/microsoft.openapi/1.6.17/microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
